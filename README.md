@@ -1,5 +1,4 @@
 - 👋🏻 Hi, I’m @kens-visuals
-- 👀 I’m interested in web development
 - 🟨 I’m a JavaScript Developer
 - 💻 I’m looking to collaborate on any project that will help me to gain knowledge and experience on JS
 - 📫 How to reach me: karapet.nersisyan@yahoo.com
