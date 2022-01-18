@@ -1,7 +1,7 @@
-<h1 align="center">Hi, I'm Ken Nersisyan <img src="./memoji.png" alt="my memoji"  width="50"/></h1>
+<h1 align="center">Hi, I'm Ken Nersisyan <img src="./memoji-notebook.png" alt="my memoji"  width="30"/></h1>
 <h3 align="center">Front-end Developer | JS Enthusiast | Tech Writer</h3>
 
-- 🔭 I’m currently working on **My Portfolio**
+- <img src="./memoji-working.png" alt="my memoji" width="30"/> I’m currently working on **My Portfolio**
 - 💻 I’m looking to collaborate on **cool front-end projects**.
 - 📝 I regularly write articles on [Medium](https://medium.com/@kens_visuals)
 - 📫 How to reach me **karapet.nersisyan@yahoo.com**
