@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Ken Nersisyan</h1>
-<h3 align="center">Front-end Developer | JS Enthusiast | Tech Writer</h3>
+<h2 align="center">Front-end Developer | JS Enthusiast | Tech Writer</h2>
 
 - 🔭 I’m currently working on **My Portfolio**
 - 💻 I’m looking to collaborate on **cool front-end projects**.
 - 📝 I regularly write articles on [Medium](https://medium.com/@kens_visuals)
 - 📫 How to reach me **karapet.nersisyan@yahoo.com**
-- 📄 Know about my experiences: [résumé](https://drive.google.com/file/d/1KY0jRMqNKRCw4acLQLNf99ndeWbwC0XX/view?usp=sharing)
+- 📄 See my [résumé](https://drive.google.com/file/d/1KY0jRMqNKRCw4acLQLNf99ndeWbwC0XX/view?usp=sharing)
 
 ---
 
@@ -27,7 +27,7 @@
 
 <h3 align="left">Languages and Tools:</h3>
 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
 
 <!-- <p align="left">
     <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
