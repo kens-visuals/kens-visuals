@@ -7,9 +7,15 @@
 <div>
     <img src="./memoji-collaborate.png" alt="my memoji" width="25"/> I’m looking to collaborate on **cool front-end projects**.
 </div>
-- <img src="./memoji-notebook.png" alt="my memoji" width="25"/> I regularly write articles on [Medium](https://medium.com/@kens_visuals)
-- <img src="./memoji-contactme.png" alt="my memoji" width="25"/> How to reach me **karapet.nersisyan@yahoo.com**
-- <img src="./memoji-resume.png" alt="my memoji" width="25"/> See my [résumé](https://drive.google.com/file/d/1KY0jRMqNKRCw4acLQLNf99ndeWbwC0XX/view?usp=sharing)
+<div>
+    <img src="./memoji-notebook.png" alt="my memoji" width="25"/> I regularly write articles on [Medium](https://medium.com/@kens_visuals)
+</div>
+<div>
+    <img src="./memoji-contactme.png" alt="my memoji" width="25"/> How to reach me **karapet.nersisyan@yahoo.com**
+</div>
+<div>
+    <img src="./memoji-resume.png" alt="my memoji" width="25"/> See my [résumé](https://drive.google.com/file/d/1KY0jRMqNKRCw4acLQLNf99ndeWbwC0XX/view?usp=sharing)
+</div>
 
 ---
 
