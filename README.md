@@ -8,13 +8,13 @@
     <img src="./memoji-collaborate.png" alt="my memoji" width="25"/> I’m looking to collaborate on **cool front-end projects**.
 </div>
 <div>
-    <img src="./memoji-notebook.png" alt="my memoji" width="25"/> I regularly write articles on [Medium](https://medium.com/@kens_visuals)
+    <img src="./memoji-notebook.png" alt="my memoji" width="25"/> I regularly write articles on <a href="https://medium.com/@kens_visuals">Medium</a>
 </div>
 <div>
     <img src="./memoji-contactme.png" alt="my memoji" width="25"/> How to reach me **karapet.nersisyan@yahoo.com**
 </div>
 <div>
-    <img src="./memoji-resume.png" alt="my memoji" width="25"/> See my [résumé](https://drive.google.com/file/d/1KY0jRMqNKRCw4acLQLNf99ndeWbwC0XX/view?usp=sharing)
+    <img src="./memoji-resume.png" alt="my memoji" width="25"/> See my <a href="https://drive.google.com/file/d/1KY0jRMqNKRCw4acLQLNf99ndeWbwC0XX/view?usp=sharing">résumé</a>
 </div>
 
 ---
