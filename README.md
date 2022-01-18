@@ -2,10 +2,10 @@
 <h3 align="center">Front-end Developer | JS Enthusiast | Tech Writer</h3>
 
 <div>
-    <img src="./memoji-working.png" alt="my memoji" width="25"/> I’m currently working on **My Portfolio**
+    <img src="./memoji-working.png" alt="my memoji" width="25"/> I’m currently working on My Portfolio
 </div>
 <div>
-    <img src="./memoji-collaborate.png" alt="my memoji" width="25"/> I’m looking to collaborate on **cool front-end projects**.
+    <img src="./memoji-collaborate.png" alt="my memoji" width="25"/> I’m looking to collaborate on cool front-end projects.
 </div>
 <div>
     <img src="./memoji-notebook.png" alt="my memoji" width="25"/> I regularly write articles on <a href="https://medium.com/@kens_visuals">Medium</a>
