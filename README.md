@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ken Nersisyan</h1>
-<h2 align="center">Front-end Developer | JS Enthusiast | Tech Writer</h2>
+<h3 align="center">Front-end Developer | JS Enthusiast | Tech Writer</h3>
 
 - 🔭 I’m currently working on **My Portfolio**
 - 💻 I’m looking to collaborate on **cool front-end projects**.
