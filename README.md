@@ -2,7 +2,7 @@
 <h3 align="center">Front-end Developer | JS Enthusiast | Tech Writer</h3>
 
 - 🔭 I’m currently working on **My Portfolio**
-- 💻 I’m looking to collaborate on **I’m looking to collaborate on any project that will help me to gain knowledge and experience on JS**
+- 💻 I’m looking to collaborate on **cool front-end projects**.
 - 📝 I regularly write articles on [https://medium.com/@kens_visuals](https://medium.com/@kens_visuals)
 - 📫 How to reach me **karapet.nersisyan@yahoo.com**
 - 📄 Know about my experiences: [résumé](https://drive.google.com/file/d/1KY0jRMqNKRCw4acLQLNf99ndeWbwC0XX/view?usp=sharing)
