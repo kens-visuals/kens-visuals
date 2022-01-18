@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **My Portfolio**
 - 💻 I’m looking to collaborate on **cool front-end projects**.
-- 📝 I regularly write articles on [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@kens_visuals)
+- 📝 I regularly write articles on [Medium](https://medium.com/@kens_visuals)
 - 📫 How to reach me **karapet.nersisyan@yahoo.com**
 - 📄 Know about my experiences: [résumé](https://drive.google.com/file/d/1KY0jRMqNKRCw4acLQLNf99ndeWbwC0XX/view?usp=sharing)
 
@@ -12,7 +12,7 @@
 <a href="https://codepen.io/kens-visuals" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="kens-visuals" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/karo nersisyan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="karo nersisyan" height="30" width="40" /></a>
 <a href="https://instagram.com/kens_visuals" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kens_visuals" height="30" width="40" /></a>
-<a href="https://medium.com/@kens_visuals" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@kens_visuals" height="30" width="40" /></a>
+<a href="https://medium.com/@kens_visuals" target="blank"><img align="center" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="@kens_visuals" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -26,6 +26,7 @@
 ### 📓 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+
 - [How to Master Problem-Solving As a Programmer](https://javascript.plainenglish.io/how-to-master-problem-solving-as-a-programmer-d16a0b8780ab?source=rss-67e5d23d8b5------2)
 - [This Is Your Sign to Start Blogging](https://medium.com/@kens_visuals/this-is-your-sign-to-start-blogging-c9c39739ba65?source=rss-67e5d23d8b5------2)
 <!-- BLOG-POST-LIST:END -->
