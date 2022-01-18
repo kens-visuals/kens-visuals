@@ -1,11 +1,7 @@
 <h1 align="center">Hi, I'm Ken Nersisyan <img src="./memoji-notebook.png" alt="my memoji"  width="30"/></h1>
 <h3 align="center">Front-end Developer | JS Enthusiast | Tech Writer</h3>
 
-- <img src="./memoji-working.png" alt="my memoji" width="20"/> I’m currently working on **My Portfolio**
-- <img src="./memoji-collaborate.png" alt="my memoji" width="20"/> I’m looking to collaborate on **cool front-end projects**.
-- <img src="./memoji-notebook.png" alt="my memoji" width="20"/> I regularly write articles on [Medium](https://medium.com/@kens_visuals)
-- <img src="./memoji-contactme.png" alt="my memoji" width="20"/> How to reach me **karapet.nersisyan@yahoo.com**
-- <img src="./memoji-resume.png" alt="my memoji" width="20"/> See my [résumé](https://drive.google.com/file/d/1KY0jRMqNKRCw4acLQLNf99ndeWbwC0XX/view?usp=sharing)
+<img src="./memoji-working.png" alt="my memoji" width="20"/> I’m currently working on **My Portfolio** <img src="./memoji-collaborate.png" alt="my memoji" width="20"/> I’m looking to collaborate on **cool front-end projects**. <img src="./memoji-notebook.png" alt="my memoji" width="20"/> I regularly write articles on [Medium](https://medium.com/@kens_visuals) <img src="./memoji-contactme.png" alt="my memoji" width="20"/> How to reach me **karapet.nersisyan@yahoo.com** <img src="./memoji-resume.png" alt="my memoji" width="20"/> See my [résumé](https://drive.google.com/file/d/1KY0jRMqNKRCw4acLQLNf99ndeWbwC0XX/view?usp=sharing)
 
 ---
 
@@ -41,6 +37,7 @@
 ### 📓 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+
 - [How to Master Problem-Solving As a Programmer](https://javascript.plainenglish.io/how-to-master-problem-solving-as-a-programmer-d16a0b8780ab?source=rss-67e5d23d8b5------2)
 - [This Is Your Sign to Start Blogging](https://medium.com/@kens_visuals/this-is-your-sign-to-start-blogging-c9c39739ba65?source=rss-67e5d23d8b5------2)
 <!-- BLOG-POST-LIST:END -->
