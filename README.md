@@ -3,27 +3,27 @@
 
 <div>
     <h3>
-        <img src="./memoji-working.png" alt="my memoji" width="50"/> I’m currently working on My Portfolio
+        <img src="./memoji-working.png" alt="my memoji" width="35"/> I’m currently working on My Portfolio
     </h3>
 </div>
 <div>
     <h3>
-        <img src="./memoji-collaborate.png" alt="my memoji" width="50"/> I’m looking to collaborate on cool front-end projects.
+        <img src="./memoji-collaborate.png" alt="my memoji" width="35"/> I’m looking to collaborate on cool front-end projects.
     </h3>
 </div>
 <div>
     <h3>
-        <img src="./memoji-notebook.png" alt="my memoji" width="50"/> I regularly write articles on <a href="https://medium.com/@kens_visuals">Medium</a>
+        <img src="./memoji-notebook.png" alt="my memoji" width="35"/> I regularly write articles on <a href="https://medium.com/@kens_visuals">Medium</a>
     </h3>
 </div>
 <div>
     <h3>
-        <img src="./memoji-contactme.png" alt="my memoji" width="50"/> How to reach me <b>karapet.nersisyan@yahoo.com</b>
+        <img src="./memoji-contactme.png" alt="my memoji" width="35"/> How to reach me <b>karapet.nersisyan@yahoo.com</b>
     </h3>
 </div>
 <div>
     <h3>
-        <img src="./memoji-resume.png" alt="my memoji" width="50"/> See my <a href="https://drive.google.com/file/d/1KY0jRMqNKRCw4acLQLNf99ndeWbwC0XX/view?usp=sharing">résumé</a>
+        <img src="./memoji-resume.png" alt="my memoji" width="35"/> See my <a href="https://drive.google.com/file/d/1KY0jRMqNKRCw4acLQLNf99ndeWbwC0XX/view?usp=sharing">résumé</a>
     </h3>
 </div>
 
