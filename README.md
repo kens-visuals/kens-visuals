@@ -1,5 +1,4 @@
-<h1 align="center">Hi, I'm Ken Nersisyan 💀</h1>
-<img align="center" src="./memoji.png" alt="my memoji"  width="100"/>
+<h1 align="center">Hi, I'm Ken Nersisyan <img src="./memoji.png" alt="my memoji"  width="10"/></h1>
 <h3 align="center">Front-end Developer | JS Enthusiast | Tech Writer</h3>
 
 - 🔭 I’m currently working on **My Portfolio**
