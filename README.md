@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ken Nersisyan</h1>
+<h1 align="center">Hi, I'm Ken Nersisyan 💀</h1>
 <h3 align="center">Front-end Developer | JS Enthusiast | Tech Writer</h3>
 
 - 🔭 I’m currently working on **My Portfolio**
@@ -12,13 +12,13 @@
 <h3 align="left">Connect With Me:</h3>
 
 <p align="left">
-    <a href="https://www.linkedin.com/in/karo-nersisyan-135118129/" target="blank">
+    <a href="https://www.linkedin.com/in/karo-nersisyan-135118129/" target="_blank">
         <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="karo nersisyan" />
     </a>
-    <a href="https://medium.com/@kens_visuals" target="blank">
+    <a href="https://medium.com/@kens_visuals" target="_blank">
         <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="@kens_visuals" />
     </a>
-    <a href="https://codepen.io/kens-visuals" target="blank">
+    <a href="https://codepen.io/kens-visuals" target="_blank">
         <img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" alt="kens-visuals" />
     </a>
 </p>
