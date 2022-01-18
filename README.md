@@ -12,14 +12,14 @@
 <!-- [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/karo-nersisyan-135118129/) [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@kens_visuals) -->
 
 <p align="left">
-    <a href="https://codepen.io/kens-visuals" target="blank">
-        <img align="center" src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" alt="kens-visuals" />
-    </a>
     <a href="https://www.linkedin.com/in/karo-nersisyan-135118129/" target="blank">
-        <img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="karo nersisyan" />
+        <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="karo nersisyan" />
     </a>
     <a href="https://medium.com/@kens_visuals" target="blank">
-        <img align="center" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="@kens_visuals" />
+        <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="@kens_visuals" />
+    </a>
+    <a href="https://codepen.io/kens-visuals" target="blank">
+        <img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" alt="kens-visuals" />
     </a>
 </p>
 
