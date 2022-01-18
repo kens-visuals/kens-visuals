@@ -1,20 +1,30 @@
-<h1 align="center">Hi, I'm Ken Nersisyan <img src="./memoji-notebook.png" alt="my memoji"  width="30"/></h1>
+<h1 align="center">Hi, I'm Ken Nersisyan <img src="./memoji-notebook.png" alt="my memoji"  width="35"/></h1>
 <h3 align="center">Front-end Developer | JS Enthusiast | Tech Writer</h3>
 
 <div>
-    <img src="./memoji-working.png" alt="my memoji" width="25"/> I’m currently working on My Portfolio
+    <h3>
+        <img src="./memoji-working.png" alt="my memoji" width="50"/> I’m currently working on My Portfolio
+    </h3>
 </div>
 <div>
-    <img src="./memoji-collaborate.png" alt="my memoji" width="25"/> I’m looking to collaborate on cool front-end projects.
+    <h3>
+        <img src="./memoji-collaborate.png" alt="my memoji" width="50"/> I’m looking to collaborate on cool front-end projects.
+    </h3>
 </div>
 <div>
-    <img src="./memoji-notebook.png" alt="my memoji" width="25"/> I regularly write articles on <a href="https://medium.com/@kens_visuals">Medium</a>
+    <h3>
+        <img src="./memoji-notebook.png" alt="my memoji" width="50"/> I regularly write articles on <a href="https://medium.com/@kens_visuals">Medium</a>
+    </h3>
 </div>
 <div>
-    <img src="./memoji-contactme.png" alt="my memoji" width="25"/> How to reach me <b>karapet.nersisyan@yahoo.com</b>
+    <h3>
+        <img src="./memoji-contactme.png" alt="my memoji" width="50"/> How to reach me <b>karapet.nersisyan@yahoo.com</b>
+    </h3>
 </div>
 <div>
-    <img src="./memoji-resume.png" alt="my memoji" width="25"/> See my <a href="https://drive.google.com/file/d/1KY0jRMqNKRCw4acLQLNf99ndeWbwC0XX/view?usp=sharing">résumé</a>
+    <h3>
+        <img src="./memoji-resume.png" alt="my memoji" width="50"/> See my <a href="https://drive.google.com/file/d/1KY0jRMqNKRCw4acLQLNf99ndeWbwC0XX/view?usp=sharing">résumé</a>
+    </h3>
 </div>
 
 ---
