@@ -8,7 +8,9 @@
 - 📄 Know about my experiences: [résumé](https://drive.google.com/file/d/1KY0jRMqNKRCw4acLQLNf99ndeWbwC0XX/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
-[LinkedIn](https://www.linkedin.com/in/karo-nersisyan-135118129/)
+
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/karo-nersisyan-135118129/) [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@kens_visuals)
+
 <!-- <p align="left">
 <a href="https://codepen.io/kens-visuals" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="kens-visuals" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/karo nersisyan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="karo nersisyan" height="30" width="40" /></a>
