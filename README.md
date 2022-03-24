@@ -67,9 +67,9 @@
 ### 📓 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [How to Fix Tailwind CSS IntelliSense in Visual Studio Code](https://javascript.plainenglish.io/how-to-fix-tailwind-css-intellisense-in-visual-studio-code-3dede794df21?source=rss-67e5d23d8b5------2)
 - [How to Master Web Development in 30 Days](https://javascript.plainenglish.io/how-to-master-web-development-in-30-days-8f6d29237361?source=rss-67e5d23d8b5------2)
 - [12 unheard background pattern resources](https://bootcamp.uxdesign.cc/12-unheard-background-pattern-resources-1f1041718ac6?source=rss-67e5d23d8b5------2)
 - [Object.freeze&lpar;&rpar; VS Object.seal&lpar;&rpar; in Plain English](https://javascript.plainenglish.io/object-freeze-vs-object-seal-in-plain-english-813f27a71eb8?source=rss-67e5d23d8b5------2)
 - [Do’s and Don’ts or How to Insert Code in Medium](https://javascript.plainenglish.io/dos-and-don-ts-or-how-to-insert-code-in-medium-6c98fab86948?source=rss-67e5d23d8b5------2)
-- [How to Master Problem-Solving As a Programmer](https://javascript.plainenglish.io/how-to-master-problem-solving-as-a-programmer-d16a0b8780ab?source=rss-67e5d23d8b5------2)
 <!-- BLOG-POST-LIST:END -->
