@@ -67,9 +67,9 @@
 ### 📓 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [How to Create a Dark Mode with SASS/SCSS and Vanilla JavaScript](https://javascript.plainenglish.io/how-to-create-a-dark-mode-with-sass-scss-and-vanilla-javascript-e1c7835cf474?source=rss-67e5d23d8b5------2)
 - [The Philosophy of Chess and Programming](https://javascript.plainenglish.io/the-philosophy-of-chess-and-programming-3e435ef8bf14?source=rss-67e5d23d8b5------2)
 - [How to Make Responsive Steps Progress Bar with Vanilla JavaScript](https://javascript.plainenglish.io/how-to-make-responsive-steps-progress-bar-with-vanilla-javascript-65dfa0515811?source=rss-67e5d23d8b5------2)
 - [How to Fix Tailwind CSS IntelliSense in Visual Studio Code](https://javascript.plainenglish.io/how-to-fix-tailwind-css-intellisense-in-visual-studio-code-3dede794df21?source=rss-67e5d23d8b5------2)
 - [How to Master Web Development in 30 Days](https://javascript.plainenglish.io/how-to-master-web-development-in-30-days-8f6d29237361?source=rss-67e5d23d8b5------2)
-- [12 unheard background pattern resources](https://bootcamp.uxdesign.cc/12-unheard-background-pattern-resources-1f1041718ac6?source=rss-67e5d23d8b5------2)
 <!-- BLOG-POST-LIST:END -->
