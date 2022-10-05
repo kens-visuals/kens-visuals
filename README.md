@@ -18,7 +18,7 @@
 </div>
 <div>
     <h3>
-        <img src="./memoji-contactme.png" alt="my memoji" width="35"/> How to reach me <b>karapet.nersisyan@yahoo.com</b>
+        <img src="./memoji-contactme.png" alt="my memoji" width="35"/> How to reach me? <b>karapet.nersisyan@yahoo.com</b>
     </h3>
 </div>
 <div>
