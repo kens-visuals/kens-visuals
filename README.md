@@ -3,7 +3,8 @@
 
 <div>
     <h3>
-        <img src="./memoji-working.png" alt="my memoji" width="35"/> I’m currently working on My Portfolio
+        <img src="./memoji-working.png" alt="my memoji" width="35"/> Check out <a href="https://www.ken.engineer">my Portfolio</a>
+
     </h3>
 </div>
 <div>
