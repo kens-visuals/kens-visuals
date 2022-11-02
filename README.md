@@ -23,7 +23,7 @@
 </div>
 <div>
     <h3>
-        <img src="./memoji-resume.png" alt="my memoji" width="35"/> See my <a href="https://drive.google.com/file/d/1KY0jRMqNKRCw4acLQLNf99ndeWbwC0XX/view?usp=sharing">résumé</a>
+        <img src="./memoji-resume.png" alt="my memoji" width="35"/> See my <a href="https://drive.google.com/file/d/1sR3eVt7TWFIxj4Kuuo-EVW495Mx_c7jA/view?usp=sharing">résumé</a>
     </h3>
 </div>
 
