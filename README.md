@@ -73,9 +73,9 @@
 ### 📓 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Create a Responsive Sidebar Layout With Tailwind CSS](https://medium.com/@kens_visuals/how-to-create-a-responsive-sidebar-layout-with-tailwind-css-7ad29ef11fa7?source=rss-67e5d23d8b5------2)
-- [How to Serialize Date in JavaScript](https://medium.com/@kens_visuals/how-to-serialize-date-in-javascript-663d5b8323d1?source=rss-67e5d23d8b5------2)
+- [How to Create a Responsive Sidebar Layout With Tailwind CSS](https://javascript.plainenglish.io/how-to-create-a-responsive-sidebar-layout-with-tailwind-css-7ad29ef11fa7?source=rss-67e5d23d8b5------2)
+- [How to Serialize Date in JavaScript](https://javascript.plainenglish.io/how-to-serialize-date-in-javascript-663d5b8323d1?source=rss-67e5d23d8b5------2)
 - [How to Convert ASCII String to Its Hexadecimal SHA-256 Hash in JavaScript](https://medium.com/@kens_visuals/how-to-convert-ascii-string-to-its-hexadecimal-sha-256-hash-in-javascript-f490e7d29cf2?source=rss-67e5d23d8b5------2)
-- [How to Pass More Parameters in useInfiniteQuery?](https://medium.com/@kens_visuals/how-to-pass-more-parameters-in-useinfinitequery-e9cb45c28b8d?source=rss-67e5d23d8b5------2)
-- [Stepping Up My Game: My New Year’s Resolutions for Coding in 2023](https://medium.com/@kens_visuals/stepping-up-my-game-my-new-years-resolutions-for-coding-in-2023-35f776bffdfd?source=rss-67e5d23d8b5------2)
+- [How to Pass More Parameters in useInfiniteQuery?](https://javascript.plainenglish.io/how-to-pass-more-parameters-in-useinfinitequery-e9cb45c28b8d?source=rss-67e5d23d8b5------2)
+- [Stepping Up My Game: My New Year’s Resolutions for Coding in 2023](https://javascript.plainenglish.io/stepping-up-my-game-my-new-years-resolutions-for-coding-in-2023-35f776bffdfd?source=rss-67e5d23d8b5------2)
 <!-- BLOG-POST-LIST:END -->
