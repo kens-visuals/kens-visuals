@@ -23,7 +23,7 @@
 </div>
 <div>
     <h3>
-        <img src="./memoji-resume.png" alt="my memoji" width="35"/> See my <a href="https://drive.google.com/file/d/1GIEEpvP08JHpILsDANWBjBSt9gAXT2Ol/view?usp=sharing">résumé</a>
+        <img src="./memoji-resume.png" alt="my memoji" width="35"/> See my <a href="https://drive.google.com/file/d/190n6i-57AElKVg7hFHTzSc3M8kGY0QXI/view?usp=sharing">résumé</a>
     </h3>
 </div>
 
@@ -73,6 +73,7 @@
 ### 📓 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+
 - [How to Create a Responsive Sidebar Layout With Tailwind CSS](https://javascript.plainenglish.io/how-to-create-a-responsive-sidebar-layout-with-tailwind-css-7ad29ef11fa7?source=rss-67e5d23d8b5------2)
 - [How to Serialize Date in JavaScript](https://javascript.plainenglish.io/how-to-serialize-date-in-javascript-663d5b8323d1?source=rss-67e5d23d8b5------2)
 - [How to Convert ASCII String to Its Hexadecimal SHA-256 Hash in JavaScript](https://medium.com/@kens_visuals/how-to-convert-ascii-string-to-its-hexadecimal-sha-256-hash-in-javascript-f490e7d29cf2?source=rss-67e5d23d8b5------2)
