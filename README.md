@@ -1,19 +1,9 @@
 <h1 align="center">Hi, I'm Ken <img src="./memoji-greeting.png" alt="my memoji" width="35"/></h1>
-<h3 align="center">Front-end Developer | JS Enthusiast | Tech Writer</h3>
+<h3 align="center">Frontend Enginner | JS Enthusiast</h3>
 
 <div>
     <h3>
         <img src="./memoji-working.png" alt="my memoji" width="35"/> Check out <a href="https://www.ken.engineer">my portfolio</a>
-    </h3>
-</div>
-<div>
-    <h3>
-        <img src="./memoji-collaborate.png" alt="my memoji" width="35"/> I’m looking to collaborate on cool front-end projects.
-    </h3>
-</div>
-<div>
-    <h3>
-        <img src="./memoji-notebook.png" alt="my memoji" width="35"/> I regularly write articles on <a href="https://medium.com/@kens_visuals">Medium</a>
     </h3>
 </div>
 <div>
@@ -49,6 +39,7 @@
     </a>
 </p>
 
+<!--
 ---
 
 <h3 align="left">📚 Currently Learning:</h3>
@@ -56,6 +47,7 @@
 ![Framer-Motion](https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=blue) ![Three.JS](https://img.shields.io/badge/ThreeJs-black?style=for-the-badge&logo=three.js&logoColor=white)
 
 ---
+-->
 
 <h3 align="left">👨🏻‍💻 Main Languages and Tools:</h3>
 
