@@ -1,26 +1,3 @@
-<h1 align="center">Hi, I'm Ken <img src="./memoji-greeting.png" alt="my memoji" width="35"/></h1>
-<h3 align="center">Frontend Enginner | JS Enthusiast</h3>
-
-<div>
-    <h3>
-        <img src="./memoji-working.png" alt="my memoji" width="35"/> Check out <a href="https://www.ken.engineer">my portfolio</a>
-    </h3>
-</div>
-<div>
-    <h3>
-        <img src="./memoji-contactme.png" alt="my memoji" width="35"/> How to reach me? <b>karapet.nersisyan@yahoo.com</b>
-    </h3>
-</div>
-<div>
-    <h3>
-        <img src="./memoji-resume.png" alt="my memoji" width="35"/> See my <a href="https://drive.google.com/file/d/190n6i-57AElKVg7hFHTzSc3M8kGY0QXI/view?usp=sharing">résumé</a>
-    </h3>
-</div>
-
----
-
-<h3 align="left">Connect With Me:</h3>
-
 <p align="left">
     <a href="https://www.linkedin.com/in/karo-nersisyan-135118129/" target="_blank">
         <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="karo nersisyan" />
